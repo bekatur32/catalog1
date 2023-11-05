@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(252, 123, 77);
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Young Serif', serif;
+}
+.main{
+    background-color: white;
+    margin:auto;
+    margin-top: 30px;
+    width: 1050px;
+    padding: 20px;
+    border: 2px #21325E solid;
+}
+h1{
+    margin-top: 0;
+}
+a{
+    padding: 4px 20px;
+    background-color:rgb(105, 51, 12);
+    coLor: white;
+    text-decoration: none;
+    border-radius: 16px;
+}
